@@ -9,7 +9,7 @@
 
 ## Technologies
 
-![C#](https://img.shields.io/badge/-C%23%20-239120?style=for-the-badge&logo=c-sharp)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp)
 ![.Net](https://img.shields.io/badge/-.Net-5C2D91?style=for-the-badge&logo=.net)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
@@ -33,7 +33,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=Redis)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=AzureDevOps)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
