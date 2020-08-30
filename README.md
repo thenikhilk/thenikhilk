@@ -21,7 +21,7 @@ I'm Nikhil Khanna `@TheNikhilK` a protagonist, on a journey like no other. Telli
 ![WebPack](https://img.shields.io/badge/-WebPack-black?style=for-the-badge&logo=webpack)
 ![Babel](https://img.shields.io/badge/-Babel-black?style=for-the-badge&logo=Babel)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint)
-![Azure Functions](https://img.shields.io/badge/-JavaScript-0062AD?style=for-the-badge&logo=azure-functions)
+![Azure Functions](https://img.shields.io/badge/-Azure%20Functions-0062AD?style=for-the-badge&logo=azure-functions)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=fff)
 ![Markdown](https://img.shields.io/badge/-Markdown-005571?style=for-the-badge&logo=Markdown)
