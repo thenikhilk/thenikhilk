@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&link=https://www.twitter.com/TheNikhilK/&logoColor=white)](https://www.twitter.com/TheNikhilK/)
 [![Email](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:info@thenikhilk.com)](mailto:info@thenikhilk.com)
 
-![Hello](assets/images/wave.gif)
+![Hello](https://github.com/thenikhilk/thenikhilk/blob/master/assets/images/wave.gif?raw=true)
 
 I'm Nikhil Khanna `@TheNikhilK` a protagonist, on a journey like no other. Telling my stories 📰 through pictures 🖼️. Trying to post frequently from my journey in this world 🌏.
 
@@ -48,11 +48,11 @@ I'm Nikhil Khanna `@TheNikhilK` a protagonist, on a journey like no other. Telli
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=Netlify)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
 
-## GitHub Stats
+## Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thenikhilk&show_icons=true&count_private=true&theme=default)
 
-## Blog posts
+## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
