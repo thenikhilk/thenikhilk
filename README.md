@@ -7,8 +7,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&link=https://www.twitter.com/TheNikhilK/&logoColor=white)](https://www.twitter.com/TheNikhilK/)
 [![Email](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:info@thenikhilk.com)](mailto:info@thenikhilk.com)
 
-Hello,
-<img src="../readme/assets/images/wave.gif" width="30" id="wave aniamtion" />
+![Hello](assets/images/wave.gif)
 
 I'm Nikhil Khanna `@TheNikhilK` a protagonist, on a journey like no other. Telling my stories 📰 through pictures 🖼️. Trying to post frequently from my journey in this world 🌏.
 
