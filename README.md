@@ -1,4 +1,4 @@
-# TheNikhilK
+# ![TheNikhilK](https://github.com/thenikhilk/thenikhilk/blob/master/assets/images/logo.png?raw=true)
 
 [![WebSite](https://img.shields.io/badge/-TheNikhilK-1565C0?style=for-the-badge&logoColor=white&link=https://thenikhilk.com/&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAIAAACQKrqGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG2SURBVChTY+RNPcjAwMDOymSnzp/vJmupys/KzAgU+fP3/9WnXyfsfLzlwtufv/8BRUBKhXlYm4MVIyzEWcCKkAFQw4oTL2vX3n/75TeDSNbhxUee//337z8OAJQCKgAqYwiaeOn3H5zqIACoAKiMcdflt7wczP/+MzAyMsiLcLz/+kdTiuvN599sLEyvP/9SFOV8+v6nMDfr2QefmSxV+L/9+tey8cG7L78fvfmZOvfG7RffD1z/cP7h56l7nt589m3O/mdAU6xU+Zl4OJidtARlBNkdtQQFuVmA4QB0GdBDQA/+/fe/bfODHFcZbnZmYLAwQXzKxgplSAqwi/KxnXvwGeQgcCACHQCRYgIGB5ACq2QE+g7o6GR7qSO3PgAFgCbV+CnMP/T8xcdfIGUXHn4G+vHx2x9A6779+vvy408g99Gb719+/Hn6/sefv/9efPj58dtvoDKGhFnXiAksoDImYLwB4wOoFuweLAAoBVQAVMbMbJBw4u4nUV5WLWluJiYsEbv8OChiP//4y8xunPj91789196fvvdJkp9dSpCdGawBqOjyk6/Va+5N3v0UqI6BgQEAaAlAlFuOurwAAAAASUVORK5CYII=)](https://thenikhilk.com/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/TheNikhilKSite)](https://www.facebook.com/TheNikhilKSite)
@@ -6,8 +6,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/TheNikhilK/)](https://www.instagram.com/TheNikhilK/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&link=https://www.twitter.com/TheNikhilK/&logoColor=white)](https://www.twitter.com/TheNikhilK/)
 [![Email](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:info@thenikhilk.com)](mailto:info@thenikhilk.com)
-
-![Hello](https://github.com/thenikhilk/thenikhilk/blob/master/assets/images/wave.gif?raw=true)
+F
 
 I'm Nikhil Khanna `@TheNikhilK` a protagonist, on a journey like no other. Telling my stories 📰 through pictures 🖼️. Trying to post frequently from my journey in this world 🌏.
 
