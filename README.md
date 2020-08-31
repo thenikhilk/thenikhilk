@@ -50,7 +50,7 @@
 
 ## Blog Posts
 
-- [Upload to SharePoint using PowerShell in Builds and Releases](https://thenikhilk.com/2020/08/30/upload-to-sharepoint/)
+- [Upload to SharePoint using PowerShell in Build and Release Pipelines](https://thenikhilk.com/2020/08/30/upload-to-sharepoint/)
 - [SharePoint Instagram Web Part](https://thenikhilk.com/2019/10/26/tnk-sp-ig/)
 - [Webpack 4 Template - Setup](https://thenikhilk.com/2019/10/15/webpack4/)
 - [Webpack 4 Template - Customizations](https://thenikhilk.com/2019/10/16/webpack4/)
