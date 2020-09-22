@@ -1,4 +1,4 @@
-<img src="https://github.com/thenikhilk/thenikhilk/raw/master/assets/images/logo.png?raw=true" alt="TheNikhilK" >
+<a href="https://thenikhilk.com/" target="_blank" title="Logo"><img src="https://github.com/thenikhilk/thenikhilk/raw/master/assets/images/logo.png?raw=true" alt="TheNikhilK" ></a>
 
 [![WebSite](https://img.shields.io/badge/-TheNikhilK-1565C0?style=for-the-badge&logoColor=white&link=https://thenikhilk.com/&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAIAAACQKrqGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG2SURBVChTY+RNPcjAwMDOymSnzp/vJmupys/KzAgU+fP3/9WnXyfsfLzlwtufv/8BRUBKhXlYm4MVIyzEWcCKkAFQw4oTL2vX3n/75TeDSNbhxUee//337z8OAJQCKgAqYwiaeOn3H5zqIACoAKiMcdflt7wczP/+MzAyMsiLcLz/+kdTiuvN599sLEyvP/9SFOV8+v6nMDfr2QefmSxV+L/9+tey8cG7L78fvfmZOvfG7RffD1z/cP7h56l7nt589m3O/mdAU6xU+Zl4OJidtARlBNkdtQQFuVmA4QB0GdBDQA/+/fe/bfODHFcZbnZmYLAwQXzKxgplSAqwi/KxnXvwGeQgcCACHQCRYgIGB5ACq2QE+g7o6GR7qSO3PgAFgCbV+CnMP/T8xcdfIGUXHn4G+vHx2x9A6779+vvy408g99Gb719+/Hn6/sefv/9efPj58dtvoDKGhFnXiAksoDImYLwB4wOoFuweLAAoBVQAVMbMbJBw4u4nUV5WLWluJiYsEbv8OChiP//4y8xunPj91789196fvvdJkp9dSpCdGawBqOjyk6/Va+5N3v0UqI6BgQEAaAlAlFuOurwAAAAASUVORK5CYII=)](https://thenikhilk.com/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/TheNikhilKSite)](https://www.facebook.com/TheNikhilKSite)
@@ -47,6 +47,7 @@
 
 ## Blog Posts
 
+- [Publish Code Coverage Results in Azure DevOps Pipeline for React](https://thenikhilk.com/2020/09/18/publish-code-coverage-azure-pipelines-react/)
 - [Upload to SharePoint using PowerShell in Build and Release Pipelines](https://thenikhilk.com/2020/08/30/upload-to-sharepoint/)
 - [SharePoint Instagram Web Part](https://thenikhilk.com/2019/10/26/tnk-sp-ig/)
 - [Webpack 4 Template - Setup](https://thenikhilk.com/2019/10/15/webpack4/)
