@@ -47,7 +47,7 @@
 
 ## Blog Posts
 
-- [Publish Code Coverage Results in Azure DevOps Pipeline for React](https://thenikhilk.com/2020/09/18/publish-code-coverage-azure-pipelines-react/)
+- [Publish Code Coverage Results for React in Azure DevOps Pipeline](https://thenikhilk.com/2020/09/18/publish-code-coverage-azure-pipelines-react/)
 - [Upload to SharePoint using PowerShell in Build and Release Pipelines](https://thenikhilk.com/2020/08/30/upload-to-sharepoint/)
 - [SharePoint Instagram Web Part](https://thenikhilk.com/2019/10/26/tnk-sp-ig/)
 - [Webpack 4 Template - Setup](https://thenikhilk.com/2019/10/15/webpack4/)
