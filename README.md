@@ -13,7 +13,7 @@
 
 ## Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=thenikhilk&show_icons=true&count_private=true&theme=default)
+![Github stats](https://github-readme-stats.vercel.app/api?username=thenikhilk&show_icons=true&count_private=true&theme=radical)
 
 ## Blog Posts
 
